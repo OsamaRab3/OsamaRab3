@@ -8,10 +8,17 @@
 
 ## 🚀 About Me
 
-- 🎯 Currently pursuing a degree in **Computer Engineering and Sciences**.  
-- 🛠️ Skilled in **C++**, **Python**, **JavaScript**, and working with databases like **MySQL** and **MongoDB**.  
-- 💻 Experienced in backend development with **Node.js** and **Express.js**, and a growing interest in full-stack development.  
-- 🐧 Knowledgeable in **Linux** environments and proficient in writing **Bash scripts**.  
+I'm **Osama Rabea**, a **second-year Computer Engineering student** at **Menoufia University**, deeply passionate about **backend development, open-source contributions, and system programming**.  
+
+With a strong foundation in **C/C++, Python, JavaScript, and SQL**, I have been actively developing **Linux-based utilities in C**, strengthening my expertise in **low-level programming** and system design. My contributions to **open-source projects**—including the **All In Africa** program and enhancements to the **P4 project’s C++ standards**—reflect my commitment to collaborative development and software innovation.  
+
+### 🎯 My Expertise  
+- **Backend Development**: Experienced in **Node.js, Express.js**, and building scalable APIs.  
+- **System Programming**: Proficient in **C/C++** with a deep understanding of **Linux environments**.  
+- **Database Management**: Skilled in **SQL (MySQL)** and **NoSQL (MongoDB)**.  
+- **Automation & Scripting**: Writing efficient **Bash scripts** and working with **Linux utilities**.  
+- **Open-Source Enthusiast**: Actively contributing to global projects and engaging with developer communities.  
+
 
 ---
 
