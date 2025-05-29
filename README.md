@@ -22,17 +22,20 @@ With a strong foundation in **C/C++, Python, JavaScript, and SQL**, I have been 
 ---
 ## 🌟 Open Source Contributions
 
-| Project               | Contribution                                                                                                                                    | Links                                                                 |
-| :-------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- |
-| **LFX Mentorship**    | Mentee for LFDT - Fablo: Testing, documentation, and feature parity across Fabric v2/v3                                                        | [LFDT - Fablo](https://mentorship.lfx.linuxfoundation.org/project/a58fdafb-439a-478e-a0e6-c0a9b3604ea9)                |
-| **p4lang/bm**         | Upgraded from C++11 → C++17, removed boost dependency, updated build system/docs                                                                | [PR #1266](https://github.com/p4lang/behavioral-model/pull/1266)      |
-| **Fablo**             | Implemented cross-platform testing on macOS via GitHub Actions                                                                                  | [PR #546](https://github.com/hyperledger-labs/fablo/pull/546)         |
-| **render-engine**     | Added frontmatter to documentation files                                                                                                        | [PR #744](https://github.com/render-engine/render-engine/pull/744)    |
-| **render-engine**     | Created Windows Test matrix for cross-platform compatibility                                                                                    | [PR #746](https://github.com/render-engine/render-engine/pull/746)    |
-| **render-engine**     | Added macOS testing to release workflow                                                                                                         | [PR #750](https://github.com/render-engine/render-engine/pull/750)    |
+| Project                  | Contribution                                                                                                                                    | Links                                                                 |
+| :----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- |
+| **LFX Mentorship**       | Mentee for LFDT - Fablo: Testing, documentation, and feature parity across Fabric v2/v3                                                        | [LFDT-Fablo](https://mentorship.lfx.linuxfoundation.org/project/a58fdafb-439a-478e-a0e6-c0a9b3604ea9)                |
+| **p4lang/behavioral-model**            | Upgraded from C++11 → C++17, removed boost dependency, updated build system/docs                                                                | [PR #1266](https://github.com/p4lang/behavioral-model/pull/1266)      |
+| **Fablo**                | Implemented cross-platform testing on macOS via GitHub Actions                                                                                  | [PR #546](https://github.com/hyperledger-labs/fablo/pull/546)         |
+| **render-engine**        | Added frontmatter to documentation files                                                                                                        | [PR #744](https://github.com/render-engine/render-engine/pull/744)    |
+| **render-engine**        | Created Windows Test matrix for cross-platform compatibility                                                                                    | [PR #746](https://github.com/render-engine/render-engine/pull/746)    |
+| **render-engine**        | Added macOS testing to release workflow                                                                                                         | [PR #750](https://github.com/render-engine/render-engine/pull/750)    |
+| **render-engine**        | Clarified static_path management in documentation                                                                                               | [PR #824](https://github.com/render-engine/render-engine/pull/824)    |
+| **render-engine**        | Updated example for static files                                                                                                                | [PR #822](https://github.com/render-engine/render-engine/pull/822)    |
+| **awesome-arabic**       | Added "Multimedia - Big Data in Arabic" resource                                                                                                | [PR #24](https://github.com/sahaba-ai/awesome-arabic-speakers/pull/24)|
+| **awesome-arabic**       | Added "Elzero Web School" to Multimedia section                                                                                                 | [PR #22](https://github.com/sahaba-ai/awesome-arabic-speakers/pull/22)|
 
 ---
-
 
 ## 🔧 My Skills
 ### **Languages**  
