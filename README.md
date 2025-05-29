@@ -19,54 +19,58 @@ With a strong foundation in **C/C++, Python, JavaScript, and SQL**, I have been 
 - **Automation & Scripting**: Writing efficient **Bash scripts** and working with **Linux utilities**.  
 - **Open-Source Enthusiast**: Actively contributing to global projects and engaging with developer communities.  
 
+---
+## 🌟 Open Source Contributions
+
+| Project               | Contribution                                                                                                                                    | Links                                                                 |
+| :-------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- |
+| **LFX Mentorship**    | Mentee for LFDT - Fablo: Testing, documentation, and feature parity across Fabric v2/v3                                                        | [LFDT - Fablo](https://mentorship.lfx.linuxfoundation.org/project/a58fdafb-439a-478e-a0e6-c0a9b3604ea9)                |
+| **p4lang/bm**         | Upgraded from C++11 → C++17, removed boost dependency, updated build system/docs                                                                | [PR #1266](https://github.com/p4lang/behavioral-model/pull/1266)      |
+| **Fablo**             | Implemented cross-platform testing on macOS via GitHub Actions                                                                                  | [PR #546](https://github.com/hyperledger-labs/fablo/pull/546)         |
+| **render-engine**     | Added frontmatter to documentation files                                                                                                        | [PR #744](https://github.com/render-engine/render-engine/pull/744)    |
+| **render-engine**     | Created Windows Test matrix for cross-platform compatibility                                                                                    | [PR #746](https://github.com/render-engine/render-engine/pull/746)    |
+| **render-engine**     | Added macOS testing to release workflow                                                                                                         | [PR #750](https://github.com/render-engine/render-engine/pull/750)    |
 
 ---
+
 
 ## 🔧 My Skills
-Here's a showcase of my tech stack:
-
 ### **Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### **Frontend Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+### **Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### **Backend Development**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+### **Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### **Database**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+### **Tools & Platforms**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### **Operating Systems and Scripting**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-
-### **Tools & Others**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)  
-
----
-
-## 📚 Current Learning Goals
-- **Data Structures & Algorithms** (practicing through NeetCode 150 problems).  
-- Mastering **JavaScript** to elevate my full-stack development skills.  
 
 
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: [osrab3@gmail.com](mailto:osrab3@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/osama-rabea-201b76255/)  
-- 🐦 [X (Twitter)](https://x.com/OsamaDkrory)  
+- 📧 **Email**: [osrab3@gmail.com](mailto:osrab3@gmail.com)
+- 💼 **LinkedIn**: [osama-rabea](https://www.linkedin.com/in/osama-rabea-201b76255/)  
+- 🐦 **Twitter**: [@OsamaDkrory](https://x.com/OsamaDkrory)  
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamarab3&show_icons=true&locale=en&layout=compact" alt="osamarab3" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osamarab3&show_icons=true&locale=en" alt="osamarab3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osamarab3&" alt="osamarab3" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osamarab3&show_icons=true&locale=en&layout=compact&theme=radical" alt="osamarab3" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osamarab3&show_icons=true&locale=en&theme=radical" alt="osamarab3" width="400" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamarab3&theme=radical" alt="osamarab3" width="800" />
+</p>
