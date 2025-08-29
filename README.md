@@ -77,3 +77,7 @@ With a strong foundation in **C/C++, Python, JavaScript, and SQL**, I have been 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamarab3&theme=radical" alt="osamarab3" width="800" />
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=OsamaRab3&color=green)
+
+
